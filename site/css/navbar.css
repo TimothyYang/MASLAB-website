@@ -1,0 +1,19 @@
+#navbar-main
+{
+	background-image: url('../img/bg.png');
+}
+#logo
+{
+	height: 40px;
+	margin-top: -8px;
+	margin-bottom: -15px;
+	margin-left: -21px;
+}
+#navbar-links
+{
+	margin-top: 10px;
+}
+#navbar-list
+{
+	margin-left: -20px;
+}
