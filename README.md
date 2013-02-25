@@ -7,8 +7,11 @@ For MASLAB 2013, I completely rewrote the MASLAB website. This document is a sho
 ###Contents:
 
 **1.** Links
+
 **2.** How to Edit
+
 **3.** Setup Overview
+
 **4.** Notes
 
 ---
